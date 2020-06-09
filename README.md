@@ -31,11 +31,10 @@ Designing a Survey |https://bit.ly/30r2ZbO|
 Basic Statistical Terminology |https://bit.ly/2XLrkqK|
 Measures of Center |https://bit.ly/2XLrkqK|
 Measures of Spread |https://bit.ly/2XLrkqK|
-Google Sheets for Data Entry & Basic Analysis |shorturl.at/wFGS4|
 
 
 
 ## Instructor
 [Jubayer Hossain](https://github.com/jubayer-hossain) <br> 
-Department of Microbiology <br> 
-Jagannath University
+[Department of Microbiology](https://jnu.ac.bd/dept/portal/web/microbiology) <br> 
+[Jagannath University, Dhaka](https://www.jnu.ac.bd/)
