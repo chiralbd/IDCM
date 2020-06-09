@@ -1,7 +1,7 @@
 # Introduction to Data Collection Methods(IDCM) 
 
 Day | Topics | Duration | 
-:-- | :--: | :--: | :--:
+:-- | :--: | :--: |
 Day-01 | - [Introduction to Data](#) 
          - [Types of Data](#)
           - [Sources of Data](#)
