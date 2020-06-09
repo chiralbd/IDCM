@@ -3,7 +3,7 @@
 
 ## References 
 1. What is Data? 
-    https://bit.ly/2A9E1TB
+   - https://bit.ly/2A9E1TB
 2. Types of Data 
 https://bit.ly/2XLrkqK
 3. Sources of Data 
