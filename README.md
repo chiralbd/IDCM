@@ -2,11 +2,7 @@
 
 Day | Topics | Duration | 
 :-- | :--: | :--: |
-Day-01 | - [Introduction to Data](#) 
-         - [Types of Data](#)
-          - [Sources of Data](#)
-          - [Terms Used in Data Collection Methods](#)
-          - [Data Collection Methods](#)| 2 Hours | 
+Day-01 | - [Introduction to Data](#)| 2 Hours | 
 
 
 ## References 
