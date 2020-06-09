@@ -2,12 +2,13 @@
 
 Day | Topics | Duration | 
 :-- | :--: | :--: |
-Day-01 | - [Introduction to Data](#)| 2 Hours | 
+Day-01 | [Introduction to Data, Types of Data, Sources of Data, Terms Used in Data Collection Methods, Data Collection Methods](#)| 2 Hours | 
+Day-02 | [Methods for Collecting Primary Data,Important Agencies of Secondary Data, Survey `VS` Census, Designing a Survey ](#)| 2 Hours | 
+Day-03 | [Basic Statistical Terminology, Measures of Center, Measures of Spread](#)| 2 Hours | 
+Day-04 | [Google Forms, Draw.io, Google Sheets, Cloud Management](#)| 2 Hours | 
 
 
 ## References 
-
-
 Title | Link | 
 :-- | :--: | 
 What is Data?  | https://bit.ly/2A9E1TB| 
@@ -22,8 +23,6 @@ Designing a Survey |https://bit.ly/30r2ZbO|
 Basic Statistical Terminology |https://bit.ly/2XLrkqK|
 Measures of Center |https://bit.ly/2XLrkqK|
 Measures of Spread |https://bit.ly/2XLrkqK|
-
-
 
 ## Instructor
 [Jubayer Hossain](https://github.com/jubayer-hossain) <br> 
