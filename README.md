@@ -7,10 +7,10 @@
 
 
 ## References 
-What is Data? 
-https://bit.ly/2A9E1TB
-Types of Data 
-https://bit.ly/2XLrkqK
+- What is Data? 
+ https://bit.ly/2A9E1TB
+- Types of Data 
+ https://bit.ly/2XLrkqK
 Sources of Data 
 https://bit.ly/2APHmqT
 Terms Used in Data Collection 
